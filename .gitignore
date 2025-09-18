@@ -13,4 +13,6 @@
 /exercise_dev.ipynb
 /exercise_pub.ipynb
 /exercise_oldver.ipynb
-
+/project1
+pretrained_model/nih_pneumothorax.pth
+/datafiles/NIH_part/
